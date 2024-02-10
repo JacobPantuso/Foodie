@@ -15,7 +15,7 @@ Ever had an amazing food experience and thought, 'Let me jot this down in my not
 > Will be updated as the development of Foodie evolves.
 
 ## Deployment
-At the start of the testing phase, the app will be available on [Test Flight]("https://testflight.apple.com"), a platform designed by Apple for this purpose.
+At the start of the testing phase, the app will be available on [Test Flight](https://testflight.apple.com), a platform designed by Apple for this purpose.
 > [!NOTE]  
 > Foodie is built with Swift, SwiftUI, and Firebase. The app will only be available to iPhones running iOS 16 and higher since it takes advantage of many features not introduced prior to iOS 16.
 
