@@ -20,4 +20,4 @@ At the start of the testing phase, the app will be available on [Test Flight](ht
 > Foodie is built with Swift, SwiftUI, and Firebase. The app will only be available to iPhones running iOS 16 and higher since it takes advantage of many features not introduced prior to iOS 16.
 
 ## Timeline
-I aim to have the app completed by the middle of summer 2024. This period will allow the app to enter the early stages of testing in the latter half of the year. Any updates pertaining to the status of this project will be communicated here.
+I aim to have the app completed by the middle of summer 2025. This period will allow the app to enter the early stages of testing in the latter half of the year. Any updates pertaining to the status of this project will be communicated here.
